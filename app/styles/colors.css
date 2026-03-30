@@ -1,0 +1,18 @@
+:root {
+  --primary: #1e40af;
+  --secondary: #f59e42;
+  --accent: #10b981;
+  --background: #f3f4f6;
+  --text: #1f2937;
+  --danger: #ef4444;
+}
+
+.bg-primary { background-color: var(--primary); }
+.bg-secondary { background-color: var(--secondary); }
+.bg-accent { background-color: var(--accent); }
+.bg-background { background-color: var(--background); }
+.text-primary { color: var(--primary); }
+.text-secondary { color: var(--secondary); }
+.text-accent { color: var(--accent); }
+.text-background { color: var(--background); }
+.text-danger { color: var(--danger); }
