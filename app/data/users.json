@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "email": "juan@example.com",
+    "clave": "123456",
+    "rol": "usuario",
+    "celular": "987654321",
+    "estado": "activo"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana",
+    "apellido": "García",
+    "email": "ana@example.com",
+    "clave": "abcdef",
+    "rol": "usuario",
+    "celular": "912345678",
+    "estado": "activo"
+  }
+]
