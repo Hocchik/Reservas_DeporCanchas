@@ -10,7 +10,9 @@ const Navbar = () => (
   <nav className="bg-snow-white border-b border-stone-gray px-6 py-3 flex items-center justify-between w-full">
     {/* Logo */}
     <div className="flex items-center gap-2">
-      <span className="font-bold text-xl text-forest-green tracking-tight">DeporCanchas</span>
+      <span className="font-bold text-xl text-forest-green tracking-tight">
+        <a href="/" className="hover:text-forest-green pb-1 border-b-2 border-transparent hover:border-forest-green transition">DeporCanchas</a>
+        </span>
     </div>
     {/* Links */}
     <div className="hidden md:flex items-center gap-6 text-main text-sm">
